@@ -2,7 +2,8 @@
 Imports System.Data.SqlClient
 Public Class ClaseConexion
     Dim cn As SqlConnection
-    Public Shared cadenaconexion As String = "Server=mi_ip;uid=mi_userdb;pwd=mi_clavedb;database=mibasededatos"
+    Public Shared cadenaconexion As String = "Server=YONATHAN\SQLEXPRESS;Database=multiproductoslogistics;Trusted_Connection=True;"
+    'Public Shared cadenaconexion As String = "Server=mi_ip;uid=mi_userdb;pwd=mi_clavedb;database=mibasededatos"
     
     Public Function Conectar() As SqlConnection
 
