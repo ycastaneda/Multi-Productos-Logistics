@@ -1,0 +1,14 @@
+c:\users\yoni\documents\visual studio 2013\Projects\Multi Productos Logistics\Multi Productos Logistics\bin\Debug\Multi Productos Logistics.exe.config
+c:\users\yoni\documents\visual studio 2013\Projects\Multi Productos Logistics\Multi Productos Logistics\bin\Debug\Multi Productos Logistics.exe
+c:\users\yoni\documents\visual studio 2013\Projects\Multi Productos Logistics\Multi Productos Logistics\bin\Debug\Multi Productos Logistics.pdb
+c:\users\yoni\documents\visual studio 2013\Projects\Multi Productos Logistics\Multi Productos Logistics\bin\Debug\Multi Productos Logistics.xml
+c:\users\yoni\documents\visual studio 2013\Projects\Multi Productos Logistics\Multi Productos Logistics\obj\Debug\Multi_Productos_Logistics.Form1.resources
+c:\users\yoni\documents\visual studio 2013\Projects\Multi Productos Logistics\Multi Productos Logistics\obj\Debug\Multi_Productos_Logistics.Resources.resources
+c:\users\yoni\documents\visual studio 2013\Projects\Multi Productos Logistics\Multi Productos Logistics\obj\Debug\Multi Productos Logistics.vbproj.GenerateResource.Cache
+c:\users\yoni\documents\visual studio 2013\Projects\Multi Productos Logistics\Multi Productos Logistics\obj\Debug\Multi Productos Logistics.exe
+c:\users\yoni\documents\visual studio 2013\Projects\Multi Productos Logistics\Multi Productos Logistics\obj\Debug\Multi Productos Logistics.xml
+c:\users\yoni\documents\visual studio 2013\Projects\Multi Productos Logistics\Multi Productos Logistics\obj\Debug\Multi Productos Logistics.pdb
+C:\Users\yoni\Documents\Visual Studio 2013\Projects\Multi-Productos-Logistics\Multi Productos Logistics\bin\Debug\Multi Productos Logistics.exe.config
+C:\Users\yoni\Documents\Visual Studio 2013\Projects\Multi-Productos-Logistics\Multi Productos Logistics\obj\Debug\Multi Productos Logistics.exe
+C:\Users\yoni\Documents\Visual Studio 2013\Projects\Multi-Productos-Logistics\Multi Productos Logistics\obj\Debug\Multi Productos Logistics.xml
+C:\Users\yoni\Documents\Visual Studio 2013\Projects\Multi-Productos-Logistics\Multi Productos Logistics\obj\Debug\Multi Productos Logistics.pdb
