@@ -31,6 +31,28 @@ Public Class DatosGenerales
         End Try
     End Function
 
+    Public Function obtenerProductos(empresa As String) As DataSet
+        Dim ds As New DataSet
+        Dim dr As SqlDataReader
+        Try
+            Dim conexion As New ClaseConexion
+            Dim comando As New SqlCommand
+            Dim tabla As New DataTable
+            Dim con As SqlConnection
+            con = conexion.Conectar()
+            Using con
+                comando.CommandText = "select cod_empresa, cod_producto, unidad_medida, descripcion, tipo_producto, stock_minimo, precio_costo_unit, precio_venta_unit, existencia from purif_producto where cod_empresa=@empresa order by descripcion asc"
+                comando.Connection = con
+                comando.Parameters.Add("@empresa", SqlDbType.VarChar).Value = empresa
+                dr = comando.ExecuteReader
+                tabla.Load(dr)
+                ds.Tables.Add(tabla)
+            End Using
+            Return ds
+        Catch ex As Exception
+            Return ds
+        End Try
+    End Function
 
     Public Function insertarDatos(grupo As String, empleado As String, usuario As String, otro As String) As Boolean
         Try
